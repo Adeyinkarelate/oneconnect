@@ -1,0 +1,8 @@
+.page-header {
+  background-image:
+    linear-gradient(62deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url('./assets/images/page-header.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
